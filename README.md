@@ -35,8 +35,13 @@ Turn effects into a playable instrument. The Synthux Touch 2's **12 click-free c
 
 ## 📥 Download Firmware
 
-You can download the latest compiled firmware binary right here in the repository:
-* **[Download OceanTouch Firmware (.bin)](./OceanEngine-V1.bin)**
+You can download the compiled firmware binaries right here in the repository:
+
+* **[Download OceanTouch Firmware V1.1 (.bin)](./OceanEngine-V1.1.bin)** (Latest)
+  * *Updates:* Made the necessary adjustments to boost the volume cleanly:
+    * +6dB Digital Makeup Gain
+    * Upgraded Output Protection
+* **[Download OceanTouch Firmware V1.0 (.bin)](./OceanEngine-V1.bin)** (Legacy)
 
 ## 🚀 How to Install
 
